@@ -1,0 +1,6 @@
+﻿  SQUISH_E_Test.cpp
+E:\大四\毕设\提交\TestOthers\SQUISH_E_Test\SQUISH_E_Test\SQUISH_E_Test.cpp(327,68): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大四\毕设\提交\TestOthers\SQUISH_E_Test\SQUISH_E_Test\SQUISH_E_Test.cpp(327,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大四\毕设\提交\TestOthers\SQUISH_E_Test\SQUISH_E_Test\SQUISH_E_Test.cpp(327,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大四\毕设\提交\TestOthers\SQUISH_E_Test\SQUISH_E_Test\SQUISH_E_Test.cpp(594,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SQUISH_E_Test.vcxproj -> E:\大四\毕设\提交\TestOthers\SQUISH_E_Test\x64\Debug\SQUISH_E_Test.exe
